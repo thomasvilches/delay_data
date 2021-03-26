@@ -1,4 +1,4 @@
-This is the data based used in paper "Evaluation of COVID-19 vaccination strategies with a delayed second dose"
+This is the data base used in paper "Evaluation of COVID-19 vaccination strategies with a delayed second dose"
 
 No_VE_reduction = are the files with no reduction in Vaccine Efficacy (VE) due to delay
 VE_reduction = are the files with reduction in VE due to delay.
